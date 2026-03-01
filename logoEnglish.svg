@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3868.17 553.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbb040;
+        font-family: Pleasantly-Plump, 'Pleasantly Plump';
+        font-size: 551.97px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 496.49)"><tspan x="0" y="0">DUCKIES!!!</tspan></text>
+  <image width="1337" height="1573" transform="translate(1745.91 210.24) scale(.08)" xlink:href="duckies.png"/>
+</svg>
